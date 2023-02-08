@@ -2,7 +2,7 @@
  -->
 <h1 align="center">Hi 👋, I'm Dyanesh Dhawale</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
@@ -61,6 +61,8 @@
 </a>
 <a href="https://github.com/dyanix?tab=followers"><img src="https://img.shields.io/github/followers/dyanix?label=Followers&style=social" alt="GitHub Badge"></a>
 
+## Watch my contributions get eaten by a snake 🐍
 
 
+![snake gif](https://github.com/dyanix/dyanix/blob/output/github-contribution-grid-snake.svg)
 
