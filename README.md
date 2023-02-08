@@ -60,3 +60,10 @@
     <img src="https://komarev.com/ghpvc/?username=dyanix">
 </a>
 <a href="https://github.com/dyanix?tab=followers"><img src="https://img.shields.io/github/followers/dyanix?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+## Watch my contributions get eaten by a snake 🐍
+
+![snake gif](https://raw.githubusercontent.com/cosmicwanderer7/snk/output/github-contribution-grid-snake.svg)
+
