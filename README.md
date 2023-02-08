@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyanix&show_icons=true&locale=en&layout=compact" alt="dyanix" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en" alt="dyanix" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en&theme=tokyonight" alt="dyanix" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyanix&" alt="dyanix" /></p>
