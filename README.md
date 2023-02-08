@@ -5,9 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dyanix &label=Profile%20views&color=0e75b6&style=flat" alt="dyanix" /> </p>
 
-<p align="left"> <a href="https://twitter.com/dyanix dhawale" target="blank"><img src="https://img.shields.io/twitter/follow/dyanix dhawale?logo=twitter&style=for-the-badge" alt="dyanix dhawale" /></a> </p>
 
 - 🔭 I’m currently working on **Portfolio**
 
@@ -48,3 +46,17 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyanix&&theme=tokyonight" alt="dyanix" />
 </p>
 
+## Connect with me:
+<p align="left">
+
+
+<a href = "https://www.instagram.com/mr_dyanix/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://twitter.com/dyanix dhawale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="https://github.com/dyanix/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=dyanix">
+</a>
+<a href="https://github.com/dyanix?tab=followers"><img src="https://img.shields.io/github/followers/dyanix?label=Followers&style=social" alt="GitHub Badge"></a>
