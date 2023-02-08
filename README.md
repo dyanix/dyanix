@@ -63,7 +63,4 @@
 
 
 
-## Watch my contributions get eaten by a snake 🐍
-
-![snake gif](https://raw.githubusercontent.com/cosmicwanderer7/snk/output/github-contribution-grid-snake.svg)
 
