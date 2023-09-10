@@ -21,12 +21,18 @@
 
 - ⚡ Fun fact **I think iam creative and eager to learn faster**
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dyanesh dhawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dyanesh dhawale" height="30" width="40" /></a>
 <a href="https://kaggle.com/dyanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dyanix" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dyanix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dyanix" height="30" width="40" /></a>
-</p>
+</p>-->
+
+[![Linkedin Badge](https://img.shields.io/badge/-DyaneshDhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dyanesh-dhawale-8742241b9/)](https://www.linkedin.com/in/dyanesh-dhawale-8742241b9/)
+
+[![Gmail Badge](https://img.shields.io/badge/-dyanixdhawale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyanixdhawale@gmail.com)](mailto:dyanixdhawale@gmail.com)
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
@@ -79,14 +85,14 @@
 <br/>
 <p align="center">
 
+---
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en&theme=tokyonight" alt="dyanix" />
+<p align="center">
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en&theme=tokyonight" alt="dyanix" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyanix&&theme=tokyonight" alt="dyanix" />
-</p>
 
-## Connect with me:
+
+<!--## Connect with me:
 <p align="left">
 
 
@@ -94,12 +100,21 @@
 <a href = "https://twitter.com/dyanix dhawale"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
+-->
+---
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/dyanix/count.svg?align=center)
 
-## ❤ Views and Followers
-<a href="https://github.com/dyanix/github-profile-views-counter">
+---
+
+## ❤ Followers
+<!--<a href="https://github.com/dyanix/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=dyanix">
-</a>
+</a>-->
 <a href="https://github.com/dyanix?tab=followers"><img src="https://img.shields.io/github/followers/dyanix?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
 
 ## Watch my contributions get eaten by a snake 🐍
 
