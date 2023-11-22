@@ -35,8 +35,24 @@
 [![Gmail Badge](https://img.shields.io/badge/-dyanixdhawale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dyanixdhawale@gmail.com)](mailto:dyanixdhawale@gmail.com)
 
 ---
+## 🛠️ Technologies & Tools
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&color=informational&logo=cpp)
+![](https://img.shields.io/badge/Code-EcmaScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![](https://img.shields.io/badge/Tool-Mongodb-informational?style=flat&color=warning&logo=mongodb)
+![](https://img.shields.io/badge/Tool-Chartjs-informational?style=flat&color=warning&logo=chart.js)
+![](https://img.shields.io/badge/Tool-Tailwind-informational?style=flat&color=warning&logo=tailwindcss)
+![](https://img.shields.io/badge/Tool-Firebase-informational?style=flat&color=warning&logo=firebase)
+![](https://img.shields.io/badge/Tool-Python-informational?style=flat&color=warning&logo=python)
+![](https://img.shields.io/badge/Tool-Html-informational?style=flat&color=warning&logo=html)
+![](https://img.shields.io/badge/Tool-Next-informational?style=flat&color=warning&logo=next.js)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
 
-<h3 align="left">Languages and Tools:</h3>
+
+<!--<h3 align="left">Languages and Tools:</h3>
 <p align="center">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -73,7 +89,7 @@
  <a style="padding-right: 15px; " href="https://tailwindcss.com/" target="_blank">
   <img style="max-width:48px; height: 48px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"/>
  </a>&nbsp;
-   </p>
+   </p>-->
 
 
 
@@ -89,9 +105,9 @@
 
 ---
 
-<p align="center">
+<!--<p align="center">
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyanix&show_icons=true&locale=en&theme=tokyonight" alt="dyanix" />
-
+-->
 <p align="center">
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dyanix&&theme=tokyonight" alt="dyanix" />
@@ -121,7 +137,7 @@
 
 ---
 
-## Watch my contributions get eaten by a snake 🐍
+<!---## Watch my contributions get eaten by a snake 🐍
 
 
 ![snake gif](https://github.com/dyanix/dyanix/blob/output/github-contribution-grid-snake.svg)
