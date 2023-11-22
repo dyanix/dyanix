@@ -11,11 +11,11 @@
 
 
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Exciting Projects**
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **React,Firebase and Frontend**
+- 💬 Ask me about **React,Next and Frontend**
 
 - 📫 How to reach me **dyanixdhawale@gmail.com**
 
