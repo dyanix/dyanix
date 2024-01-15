@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 💬 Ask me about **JAvascript , React , Next and Frontend **
+- 💬 Ask me about ** Javascript , React , Next and Frontend **
 
 - 📫 How to reach me **dyanixdhawale@gmail.com**
 
