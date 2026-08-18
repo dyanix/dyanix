@@ -31,7 +31,7 @@ Long term, I want to contribute to AI/ML research and development, building syst
 | 📊 **Statistical Learning Theory** | Bias–variance, VC dimension, generalization bounds, regularization |
 | 🛠️ **Engineering** | Reproducible experiments, data pipelines, clean numerical implementations |
 
-- 🔭 Currently working on **data engineering at Bitwise** and **from-scratch implementations of core ML algorithms**
+- 🔭 Currently working on **data engineering at Bitwise** 
 - 🌱 Currently learning **optimization theory and the statistical foundations of learning**
 - 💬 Ask me about **Python, SQL, data pipelines, and the math behind ML**
 - ⚡ I believe an algorithm you can't derive is an algorithm you don't yet know
@@ -100,3 +100,4 @@ Long term, I want to contribute to AI/ML research and development, building syst
 </p>
 
 ---
+
